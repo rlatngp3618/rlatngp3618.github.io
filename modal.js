@@ -2,7 +2,8 @@
 const projects = {
   project1: {
     title: 'Edit Design Project 1',
-    image: 'img/portfolio/p1.jpg',
+    image: 'img/portfolio/kkokka_main.png','img/portfolio/kkokka_play.gif','img/portfolio/system.png','img/portfolio/5.png','img/portfolio/6.png','img/portfolio/7.png',
+    'img/portfolio/8.png', 'img/portfolio/system-1.png', 'img/portfolio/1.png'
     description: '이 프로젝트는 브랜드 아이덴티티를 위한 패키지 디자인입니다. 심플하면서도 감각적인 디자인으로 제품의 가치를 극대화했습니다.'
   },
   project2: {
